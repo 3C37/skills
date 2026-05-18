@@ -4,14 +4,11 @@
 [English Version (README.md)](./README.md)
 
 ## 🚀 Skills 목록
-*   **[verifying-freshness](./skills/verifying-freshness/)**: 실시간 정보의 최신성을 검증하고 할루시네이션(환각)을 방지합니다.
+*   **[verifying-freshness](./skills/verifying-freshness/)**: 실시간 정보의 최신성을 검증하고 환각을 방지합니다.
 
 ## 🛠 설치 방법
 이 저장소의 스킬들을 설치하려면 아래 명령어를 실행하세요:
 
 ```bash
 npx skills@latest 3C37/skills
-```
-
-> **참고:** 설치 후, 대화형 세션에서 `/skills reload` 명령어를 실행해야 적용됩니다.
 ```

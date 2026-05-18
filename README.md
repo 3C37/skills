@@ -12,6 +12,3 @@ To install skills from this repository, run the following command:
 ```bash
 npx skills@latest 3C37/skills
 ```
-
-> **Note:** After installation, remember to run `/skills reload` in your interactive session.
-```
