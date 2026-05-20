@@ -11,5 +11,5 @@
 이 저장소의 스킬들을 설치하려면 아래 명령어를 실행하세요:
 
 ```bash
-npx skills@latest 3C37/skills
+npx skills@latest add 3C37/skills
 ```

@@ -11,5 +11,5 @@ A collection of model and agent agnostic skills. These skills are designed to be
 To install skills from this repository, run the following command:
 
 ```bash
-npx skills@latest 3C37/skills
+npx skills@latest add 3C37/skills
 ```
