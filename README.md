@@ -6,6 +6,7 @@ A collection of model and agent agnostic skills. These skills are designed to be
 ## 🚀 Skills List
 *   **[verifying-freshness](./skills/verifying-freshness/)**: Verifies real-time information to prevent hallucinations.
 *   **[clarify-documentation](./skills/clarify-documentation/)**: Guidelines for optimizing AI-facing documentation to maximize signal-to-noise ratio.
+*   **[multi-reviewer-codebase-review](./skills/multi-reviewer-codebase-review/)**: Runs a persona-based, independent multi-reviewer repository review and synthesizes the findings inline.
 
 ## 🛠 Installation
 To install skills from this repository, run the following command:

@@ -6,6 +6,7 @@
 ## 🚀 Skills 목록
 *   **[verifying-freshness](./skills/verifying-freshness/)**: 실시간 정보의 최신성을 검증하고 환각을 방지합니다.
 *   **[clarify-documentation](./skills/clarify-documentation/)**: AI용 문서 최적화를 통해 정보 밀도를 높이고 에이전트 효율을 극대화합니다.
+*   **[multi-reviewer-codebase-review](./skills/multi-reviewer-codebase-review/)**: 페르소나 기반 독립 다중 리뷰어 저장소 검토를 수행하고 결과를 인라인으로 종합합니다.
 
 ## 🛠 설치 방법
 이 저장소의 스킬들을 설치하려면 아래 명령어를 실행하세요:
